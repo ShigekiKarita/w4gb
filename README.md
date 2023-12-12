@@ -1,6 +1,8 @@
 # w4gb
 
-A game written in D for the [WASM-4](https://wasm4.org) fantasy console.
+[![D](https://github.com/ShigekiKarita/w4gb/actions/workflows/d.yml/badge.svg)](https://github.com/ShigekiKarita/w4gb/actions/workflows/d.yml)
+
+A gameboy emurator written in D for the [WASM-4](https://wasm4.org) fantasy console.
 
 ## Building
 
@@ -20,7 +22,5 @@ For more info about setting up WASM-4, see the [quickstart guide](https://wasm4.
 
 ## Links
 
-- [Documentation](https://wasm4.org/docs): Learn more about WASM-4.
-- [Snake Tutorial](https://wasm4.org/docs/tutorials/snake/goal): Learn how to build a complete game
-  with a step-by-step tutorial.
-- [GitHub](https://github.com/aduros/wasm4): Submit an issue or PR. Contributions are welcome!
+- [How To Emulate a Game Boy](https://rylev.github.io/DMG-01)
+- https://keichi.dev/post/write-yourself-a-game-boy-emulator/

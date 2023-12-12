@@ -22,5 +22,6 @@ For more info about setting up WASM-4, see the [quickstart guide](https://wasm4.
 
 ## Links
 
+- https://cturt.github.io/cinoop.html
 - [How To Emulate a Game Boy](https://rylev.github.io/DMG-01)
 - https://keichi.dev/post/write-yourself-a-game-boy-emulator/

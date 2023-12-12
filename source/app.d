@@ -1,5 +1,6 @@
-import std.stdio;
 import w4 = wasm4;
+
+import w4gb.cpu;
 
 immutable ubyte[] smiley = [
   0b11000011,
